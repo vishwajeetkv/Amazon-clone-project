@@ -1,2 +1,2 @@
-# Amazon-clone-project
-Amazon clone
+# Amazon-clone
+Amazon clone using HTML & CSS
